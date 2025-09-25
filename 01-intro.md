@@ -30,4 +30,13 @@ Okay, so the task is simple enough.  First, we design a system whereby we can cr
 
 !['e' as 'o'](https://github.com/MonteShaffer/rml-intro/blob/main/images/e-o-V1-pdf65.png?raw=true) 
 
+The Budge dictionary of Egyptian phrases explains that 'Mermena' may be pronounced 'Mormona' or possibly even 'Mormone" and appears in three funerary texts from late Old Kingdom Period related to Sixth Dynasty pharaohs:  Pepi I Meryre,  Merenre, and Pepi II Neferkare.  'Mormona' may be considered a special lake that connects the other world to this world.  Over time, this title may have been repurposed as an ancient river-island society of Meroë in Egypt, Mārôm heights in the land of Naphtali in the Old Testament (see H4791 [https://www.blueletterbible.org/lexicon/h4791/kjv/wlc/0-1/] and Josh 11:7 [https://www.blueletterbible.org/kjv/jos/11/7/t_conc_198007]), and the Waters of Mormon in the Book of Mormon.
 
+Furthermore, 'Mer' and 'men' seems to be related roots of the word 'Mermena'.  'Mer' can generically mean "lake or canal" which we would naturally associate with fresh-water to either drink or water crops.
+
+![mer](https://github.com/MonteShaffer/rml-intro/blob/main/images/mer-V1-pdf135.png?raw=true) 
+![mer](https://github.com/MonteShaffer/rml-intro/blob/main/images/mer-V1-pdf471.png?raw=true) 
+
+![men](https://github.com/MonteShaffer/rml-intro/blob/main/images/men-V1-pdf458.png?raw=true) 
+![men](https://github.com/MonteShaffer/rml-intro/blob/main/images/men-V1-pdf458b.png?raw=true) 
+![men](https://github.com/MonteShaffer/rml-intro/blob/main/images/men-V1-pdf459.png?raw=true) 
